@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BA2A-17BA
+
+ Directory of C:\Users\Manasa Gavini\Desktop\my project
+
+04-10-2018  00:49    <DIR>          .
+04-10-2018  00:49    <DIR>          ..
+04-10-2018  00:49                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  552,911,499,264 bytes free
